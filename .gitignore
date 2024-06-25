@@ -1,0 +1,12 @@
+notebooks/explore/data_nlp_uas.csv
+notebooks/explore/stopwords.txt
+notebooks/preposes/hapus_tidak_prepocess.csv
+notebooks/preposes/keep_tidak_prepocess.csv
+notebooks/preposes/sentiment_analysis_data_seimbang.csv
+notebooks/preposes/sentiment_analysis_data2.csv
+notebooks/final_svm_model.pkl
+notebooks/label_encoder.pkl
+notebooks/preprocess.csv
+notebooks/stopwords.txt
+models/*
+
