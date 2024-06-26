@@ -9,4 +9,5 @@ notebooks/label_encoder.pkl
 notebooks/preprocess.csv
 notebooks/stopwords.txt
 models/*
-
+!models/bilstm.weights.h5
+!models/attention.weights.h5
