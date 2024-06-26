@@ -25,7 +25,7 @@ def predict():
     else:
         style_encode = "color: blue;"
     
-    return render_template('index.html', sentiment=sentiment, style_encode=style_encode)
+    return render_template('index.html', sentiment=sentiment, style_encode=style_encode, text=text)
 
 if __name__ == '__main__':
     app.run(debug=True, port=3000)
